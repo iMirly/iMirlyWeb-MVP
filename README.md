@@ -236,7 +236,5 @@ npm run build
 </div>
 
 <div align="center">
-  <b>✨ Proyecto desarrollado por Eva Gallardo como parte del TFC iMirly ✨</b>
-  <br>
   <sub>NDT NewDigitalTalent · Granada · 2025</sub>
 </div>
