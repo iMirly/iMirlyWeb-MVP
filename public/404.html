@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <title>iMirly</title>
+    <script>
+      // SPA fallback for GitHub Pages — redirect to hash-based route
+      var l = window.location;
+      var base = "/iMirlyWeb-MVP/";
+      var path = l.pathname;
+      if (path.startsWith(base)) {
+        path = path.slice(base.length - 1);
+      }
+      var hash = "#" + path + l.search + l.hash;
+      l.replace(l.protocol + "//" + l.host + base + hash);
+    </script>
+  </head>
+  <body></body>
+</html>
