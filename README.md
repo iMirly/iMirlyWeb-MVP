@@ -222,15 +222,6 @@ npm run build
   </table>
 </div>
 
-# 🎯 Mejoras futuras
-
-- 🔗 **Conexión con backend real** (API REST de iMirlyAppBackend)
-- 🔔 **Notificaciones push** simuladas
-- 🗺️ **Geolocalización** real de proveedores
-- 💳 **Integración de pagos** (Stripe/PayPal)
-- 🌙 **Modo oscuro** completo (ya preparado en CSS)
-- 📸 **Subida de imágenes** desde el dispositivo
-
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6c5ce7,100:3f51b5&height=100&section=footer" width="100%"/>
 </div>
